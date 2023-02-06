@@ -6,16 +6,17 @@ if(args.Length > 0)
 {
     HttpClient client = new HttpClient();
 
-    client.DefaultRequestHeaders.Add("authorization", "Bearer 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");
+    string key = "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"; //https://platform.openai.com/account/api-keys
+    client.DefaultRequestHeaders.Add($"authorization", "Bearer " + key);
     var content = new StringContent("{\"model\": \"text-davinci-001\", \"prompt\": \""+ args[0] +"\",\"temperature\": 1,\"max_tokens\": 100}", Encoding.UTF8, "application/json");
 
     HttpResponseMessage response = await client.PostAsync("https://api.openai.com/v1/completions", content);
 
     string responseString = await response.Content.ReadAsStringAsync();
 
-    Console.WriteLine(responseString);
+    //Console.WriteLine(responseString);
     
-    try
+ try
     {
         var dynamicObj = JsonConvert.DeserializeObject<dynamic>(responseString);
 
