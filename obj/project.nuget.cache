@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hbR6FDENZ9MuXwGsq3Y05YOJDOz2dTutsJT7b2yZugW5ZqYg2Fe0DLEddjf2yFVNYVEK+WBtsui49vv/IT6mGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KORISNIK\\Documents\\prog1\\_visualStudio\\ask\\ask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KORISNIK\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\KORISNIK\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\KORISNIK\\.nuget\\packages\\textcopy\\6.2.1\\textcopy.6.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
