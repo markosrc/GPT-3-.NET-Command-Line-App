@@ -147,11 +147,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KORISNIK\\Documents\\prog1\\_visualStudio\\ask\\ask.csproj",
+      "projectUniqueName": "C:\\Users\\KORISNIK\\Documents\\prog1\\_visualStudio\\asky\\GPT-3-.NET-Command-Line-App\\ask.csproj",
       "projectName": "ask",
-      "projectPath": "C:\\Users\\KORISNIK\\Documents\\prog1\\_visualStudio\\ask\\ask.csproj",
+      "projectPath": "C:\\Users\\KORISNIK\\Documents\\prog1\\_visualStudio\\asky\\GPT-3-.NET-Command-Line-App\\ask.csproj",
       "packagesPath": "C:\\Users\\KORISNIK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KORISNIK\\Documents\\prog1\\_visualStudio\\ask\\obj\\",
+      "outputPath": "C:\\Users\\KORISNIK\\Documents\\prog1\\_visualStudio\\asky\\GPT-3-.NET-Command-Line-App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
